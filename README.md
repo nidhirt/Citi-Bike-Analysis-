@@ -101,6 +101,12 @@ The oldest average age station is Dey ST followed by Jeresy and 6th St , VAN Vor
  Bikers with birth year in 1970 and 2000 clock the highest trip duration
  ![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/TRIP%20DURATIONS.png)
  
+ ###(6) Geography Start stations
+ 
+ ![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/START%20STATIONS.png)
+ ![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/END%20STATIONS%20geography.png)
+ 
+ 
 
 
 
