@@ -64,8 +64,8 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 <td>3 KB</td>
 <td>CSV</td>
 </tr>
-<tr>
-<td>
+</tbody>
+</table>
 
 
 
@@ -100,5 +100,7 @@ The oldest average age station is Dey ST followed by Jeresy and 6th St , VAN Vor
 ### (5) Bikers birth year and Trip duration
  Bikers with birth year in 1970 and 2000 clock the highest trip duration
  ![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/TRIP%20DURATIONS.png)
+ 
+
 
 
