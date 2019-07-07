@@ -76,19 +76,29 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 ### (1) Total trips were 16 Mn over the period Jan to May 2019 . Riderships increased significantly in the month of march along with the 3-day pass purchase and 24 - hour pass purchase
 
 
+![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/24%20hour%20passes%20Vs%203%20Days%20passes.png)
+![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/Monthwise%20Trips.png)
+
 
 ### (2) The 1st and 2nd peak hours during a day would usually be 6-7 AM and 5-6 PM
 
+![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/Peak%20start%20times%20in%20a%20day.png)
+![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/Peak%20stop%20times%20in%20a%20day.png)
 
-### (3) Popular stations were Grove St Path
-
+### (3) Popular stations were Grove St Path, Hamilton Park, Sip Ave,Harborside, 
+![alt Text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/Popular%20stations%20end.png)
+![alt Text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/Popular%20stations%20start.png)
 
 
 ### (4) Oldest Stations
 
-The oldest average age station is Dey ST foloowed by Jeresy and 6th St , VAN Vorst park, astor place
+The oldest average age station is Dey ST followed by Jeresy and 6th St , VAN Vorst park, astor place
+![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/AVERAGE%20AGE%20STATION.png)
 
-### (5) Oldest Stations
+
+
+### (5) Bikers birth year and Trip duration
  Bikers with birth year in 1970 and 2000 clock the highest trip duration
+ ![alt text](https://github.com/nidhirt/Citi-Bike-Analysis-/blob/master/Images/TRIP%20DURATIONS.png)
 
 
